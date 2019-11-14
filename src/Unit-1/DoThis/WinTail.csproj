@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="Actors\ConsoleReaderActor.cs" />
     <Compile Include="Actors\ConsoleWriterActor.cs" />
+    <Compile Include="Actors\ValidationActor.cs" />
     <Compile Include="Messages\ContinueProcessing.cs" />
     <Compile Include="Messages\InputError.cs" />
     <Compile Include="Messages\InputSuccess.cs" />
